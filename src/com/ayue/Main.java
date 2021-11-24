@@ -1,4 +1,4 @@
-package com.ayue.factory;
+package com.ayue;
 
 public class Main {
     public static void main(String[] args) {
